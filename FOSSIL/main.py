@@ -17,7 +17,7 @@ root.geometry(f"{window_width}x{window_height}+{position_x}+{position_y}")
 root.resizable(0, 0)
 root.iconbitmap("foss_1.ico")
 root.configure(bg = "gray")
-root.title("FOSSIL Terminal")
+root.title("Fossil_dev Terminal")
 
 # input bar
 

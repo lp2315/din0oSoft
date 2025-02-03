@@ -5,7 +5,7 @@ from tkinter import filedialog
 from tkinter.constants import END
 
 help_message = "HELP TEXT"
-info_message = "WELCOME TO FOSSIL CONSOLE"
+info_message = "WELCOME TO Fossil_dev CONSOLE"
 error_message = "NO SUCH COMMAND..."
 
 #

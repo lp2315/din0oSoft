@@ -25,7 +25,7 @@ class SliderWindow:
         labels = ["Rows", "Columns", "Scaling", "Speed"]
         ranges = [(3, 15), (3, 25), (40, 60), (0, 2)]
 
-        for i in range(5):
+        for i in range(4):
             label = tk.Label(master, text = labels[i])
             label.pack()
             slider = tk.Scale(master, from_ = ranges[i][0], to = ranges[i][1], orient = tk.HORIZONTAL)
